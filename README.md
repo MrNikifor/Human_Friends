@@ -17,8 +17,7 @@ cat "Animals"
 mv "Animals" "Human Friends"
 cat "Human Friends"
 
-![Задание 1.png](..%2F..%2FUsers%2Fosian%2FOneDrive%2FPictures%2FScreenshots%2F%C7%E0%E4%E0%ED%E8%E5%201.png)
-
+![Задание 1.jpg](..%2F..%2FUsers%2Fosian%2FOneDrive%2F%C8%E7%EE%E1%F0%E0%E6%E5%ED%E8%FF%2FHumanFriends%2F%C7%E0%E4%E0%ED%E8%E5%201.jpg)
 ### Задание 2
 
 mkdir Animals
