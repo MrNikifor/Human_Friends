@@ -83,7 +83,7 @@ cd Animals
 
 cat 'Human Friends'
 
-![Задание 2.png](Imges/Задание%203.2.png)
+![Задание 2.png](Imges/Задание%202.png)
 
 ### Решение 3
 
