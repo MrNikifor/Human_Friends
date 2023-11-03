@@ -20,7 +20,7 @@ mv "Animals" "Human Friends"
 
 cat "Human Friends"
 
-![Задание 1.jpg](Imges/Задание 1.png)
+![Задание 1.jpg](Imges/Задание%201.png)
 ### Задание 2
 
 mkdir Animals
